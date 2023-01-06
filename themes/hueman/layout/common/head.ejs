@@ -24,6 +24,7 @@
       <meta name="msvalidate.01" content="<%- theme.plugins.bing_site_verification %>" />
     <% } %>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="naver-site-verification" content="bdfc64ddc42fb9ff7bc866fa6373e1f45671f7ea" />
     <% if (page.tags) {
         var keywords = [];
         for (var i in page.tags.data) {
@@ -39,6 +40,8 @@
         twitter_id:     theme.miscellaneous.open_graph.twitter_id,
     }) %>
     <%- meta(page) %>
+    <%- autoCanonical(config, page) %>
+
 
     <% if (theme.customize && theme.customize.social_links && theme.customize.social_links.rss) { %>
         <link rel="alternate" href="<%- theme.customize.social_links.rss %>" title="<%= config.title %>" type="application/atom+xml" />
