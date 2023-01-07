@@ -593,6 +593,14 @@
   dependencies:
     "hexo-pagination" "1.0.0"
 
+"hexo-generator-feed@^3.0.0":
+  "integrity" "sha512-Jo35VSRSNeMitS2JmjCq3OHAXXYU4+JIODujHtubdG/NRj2++b3Tgyz9pwTmROx6Yxr2php/hC8og5AGZHh8UQ=="
+  "resolved" "https://registry.npmjs.org/hexo-generator-feed/-/hexo-generator-feed-3.0.0.tgz"
+  "version" "3.0.0"
+  dependencies:
+    "hexo-util" "^2.1.0"
+    "nunjucks" "^3.0.0"
+
 "hexo-generator-index@^1.0.0":
   "integrity" "sha512-L25MdZ7e5ar/F8lIW+zBNNlA4f5A8CBUOYi1IQZCgL3wPVW+AWn66RSM5UVBAbiw5yxDeTHdk0sJYXbhSBaOFQ=="
   "resolved" "https://registry.npmjs.org/hexo-generator-index/-/hexo-generator-index-1.0.0.tgz"
@@ -608,6 +616,11 @@
     "hexo-util" "latest"
     "keyword-extractor" "latest"
     "moment" "latest"
+
+"hexo-generator-robotstxt@^0.2.0":
+  "integrity" "sha512-86ZsTTNug8ffQwm0pJ/AzngMdQnDJxHCRVn28NPu+OB/dK40bUhPcE0inGvwh3k60SagX1GXY8StvlGkpxGxqA=="
+  "resolved" "https://registry.npmjs.org/hexo-generator-robotstxt/-/hexo-generator-robotstxt-0.2.0.tgz"
+  "version" "0.2.0"
 
 "hexo-generator-sitemap@^3.0.1":
   "integrity" "sha512-n+0KLNmq6TLbiZPTQF6NY5MbEem/O+DFx0lgQZNQcU4tdjXIZRrQJs+KRKeT66NTkdlYTqb4WwCxswLqQz0crA=="
@@ -1035,7 +1048,7 @@
   "resolved" "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
   "version" "3.0.0"
 
-"nunjucks@^3.1.6", "nunjucks@^3.2.1":
+"nunjucks@^3.0.0", "nunjucks@^3.1.6", "nunjucks@^3.2.1":
   "integrity" "sha512-psb6xjLj47+fE76JdZwskvwG4MYsQKXUtMsPh6U0YMvmyjRtKRFcxnlXGWglNybtNTNVmGdp94K62/+NjF5FDQ=="
   "resolved" "https://registry.npmjs.org/nunjucks/-/nunjucks-3.2.3.tgz"
   "version" "3.2.3"

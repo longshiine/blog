@@ -97,6 +97,16 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+feed: # RSS 플러그인
+  type: rss2
+  path: rss2.xml
+  limit: 100
+robotstxt: # robots.txt 플러그인
+  useragent: "*"
+  allow:
+    - /
+  sitemap: /sitemap.xml
+
 ## Themes: https://hexo.io/themes/
 theme: hueman
 
