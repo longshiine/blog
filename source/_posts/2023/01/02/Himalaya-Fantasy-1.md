@@ -1,14 +1,14 @@
 ---
 title: <히말라야 환상방황> - EP1. 혼돈의 타멜거리
-date: 2022-12-28 18:14:19
+date: 2023-01-02 18:14:19
 categories:
   - Writing
 tags: [Travel, Nepal]
-thumbnail: https://images.unsplash.com/photo-1584884255471-e92d057f10ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
+thumbnail: https://images.unsplash.com/photo-1507743617593-0a422c9bb7f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80
 ---
 
-> 정유정 작가님의 에세이와는 목적지만 같을 뿐 하나도 비슷한 구석이 없습니다..ㅎ <br>
-> 제멋대로, 엉망진창으로 22년 버전의 환상방황을 담아보았습니다. 내부에너지가 고갈되고 무기력 해졌을 때, 다시 세상에 맞설 용기를 얻기 위해 그녀가 선택한 여행이기도, 또한 제가 선택한 새로운 도전이기도 합니다. 가볍고 재밌게 읽힌다면 좋겠네요 :)
+> 정유정 작가님의 에세이와는 목적지만 같을 뿐 하나도 비슷한 구석이 없습니다.. <br>
+> 제멋대로, 엉망진창으로 22년 버전의 환상방황을 담아보았습니다. 내부에너지가 고갈되고 무기력 해졌을 때, 다시 세상에 맞설 용기를 얻기 위해 그녀가 선택한 여행이기도, 또한 제가 선택한 새로운 도전이기도 합니다. 가볍고 재밌게 읽힌다면 좋겠네요.
 
 ## EP 1. 혼돈의 타멜거리
 
