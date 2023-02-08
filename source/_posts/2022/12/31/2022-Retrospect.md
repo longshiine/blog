@@ -3,6 +3,7 @@ title: 2022년 회고, 스타트업 실패에 대하여
 date: 2022-12-31 18:32:06
 categories:
   - Writing
+  - 스타트업
 tags: [스타트업, 회고]
 thumbnail: https://images.unsplash.com/photo-1641945512297-538a81b13f85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 ---

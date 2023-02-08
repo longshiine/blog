@@ -3,6 +3,7 @@ title: <히말라야 환상방황> - EP2. 포카라행 야간버스
 date: 2023-01-07 13:48:21
 categories:
   - Writing
+  - 글쓰기
 tags: [Travel, Nepal]
 thumbnail: https://images.unsplash.com/photo-1507743617593-0a422c9bb7f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80
 ---
